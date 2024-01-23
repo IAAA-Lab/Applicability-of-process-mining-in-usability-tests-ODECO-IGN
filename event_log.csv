@@ -1,0 +1,571 @@
+﻿timestamp;activity;case;category
+00:00:00;QUICK SEARCH;A2;A. Novice users
+00:00:39;Text search;A2;A. Novice users
+00:01:15;ADVANCED SEARCH & RESULTS;A2;A. Novice users
+00:01:30;Download;A2;A. Novice users
+00:01:31;METADATA PAGE;A2;A. Novice users
+00:02:10;ADVANCED SEARCH & RESULTS;A2;A. Novice users
+00:02:25;QUICK SEARCH;A2;A. Novice users
+00:03:54;Download;A2;A. Novice users
+00:04:20;Locate;A2;A. Novice users
+00:05:53;ADVANCED SEARCH & RESULTS;A2;A. Novice users
+00:06:14;Locate;A2;A. Novice users
+00:07:16;View;A2;A. Novice users
+00:07:17;METADATA PAGE;A2;A. Novice users
+00:07:35;Locate;A2;A. Novice users
+00:07:50;ADVANCED SEARCH & RESULTS;A2;A. Novice users
+00:08:10;View;A2;A. Novice users
+00:08:11;METADATA PAGE;A2;A. Novice users
+00:08:40;Buy;A2;A. Novice users
+00:10:00;ADVANCED SEARCH & RESULTS;A2;A. Novice users
+00:10:24;Filter;A2;A. Novice users
+00:13:05;Filter;A2;A. Novice users
+00:16:55;QUICK SEARCH;A2;A. Novice users
+00:17:44;Filter;A2;A. Novice users
+00:18:10;Text search;A2;A. Novice users
+00:18:14;ADVANCED SEARCH & RESULTS;A2;A. Novice users
+00:19:30;Geometry search;A2;A. Novice users
+00:21:02;Locate;A2;A. Novice users
+00:21:10;Locate;A2;A. Novice users
+00:21:19;Locate;A2;A. Novice users
+00:21:37;Map exploration;A2;A. Novice users
+00:28:20;Filter;A2;A. Novice users
+00:00:00;QUICK SEARCH;A3;A. Novice users
+00:00:38;Text search;A3;A. Novice users
+00:00:48;ADVANCED SEARCH & RESULTS;A3;A. Novice users
+00:01:35;View;A3;A. Novice users
+00:01:36;METADATA PAGE;A3;A. Novice users
+00:03:59;Download;A3;A. Novice users
+00:05:30;Download;A3;A. Novice users
+00:05:58;ADVANCED SEARCH & RESULTS;A3;A. Novice users
+00:06:29;Filter;A3;A. Novice users
+00:06:48;View;A3;A. Novice users
+00:06:49;METADATA PAGE;A3;A. Novice users
+00:07:05;Buy;A3;A. Novice users
+00:07:38;ADVANCED SEARCH & RESULTS;A3;A. Novice users
+00:07:48;Filter;A3;A. Novice users
+00:08:05;Filter;A3;A. Novice users
+00:08:35;Filter;A3;A. Novice users
+00:00:00;QUICK SEARCH;A5;A. Novice users
+00:00:57;Text search;A5;A. Novice users
+00:01:32;ADVANCED SEARCH & RESULTS;A5;A. Novice users
+00:01:38;View;A5;A. Novice users
+00:01:39;METADATA PAGE;A5;A. Novice users
+00:03:29;Download;A5;A. Novice users
+00:03:48;ADVANCED SEARCH & RESULTS;A5;A. Novice users
+00:04:03;View;A5;A. Novice users
+00:04:04;METADATA PAGE;A5;A. Novice users
+00:05:31;Download;A5;A. Novice users
+00:05:52;ADVANCED SEARCH & RESULTS;A5;A. Novice users
+00:06:07;View;A5;A. Novice users
+00:06:08;METADATA PAGE;A5;A. Novice users
+00:06:58;ADVANCED SEARCH & RESULTS;A5;A. Novice users
+00:07:40;View;A5;A. Novice users
+00:07:41;METADATA PAGE;A5;A. Novice users
+00:07:58;Buy;A5;A. Novice users
+00:08:05;ADVANCED SEARCH & RESULTS;A5;A. Novice users
+00:00:00;QUICK SEARCH;A7;A. Novice users
+00:00:26;Text search;A7;A. Novice users
+00:01:06;Filter;A7;A. Novice users
+00:01:18;ADVANCED SEARCH & RESULTS;A7;A. Novice users
+00:02:06;View;A7;A. Novice users
+00:02:07;METADATA PAGE;A7;A. Novice users
+00:03:16;Download;A7;A. Novice users
+00:05:00;ADVANCED SEARCH & RESULTS;A7;A. Novice users
+00:05:46;Map exploration;A7;A. Novice users
+00:07:24;Download;A7;A. Novice users
+00:07:25;METADATA PAGE;A7;A. Novice users
+00:09:16;ADVANCED SEARCH & RESULTS;A7;A. Novice users
+00:00:00;QUICK SEARCH;A8;A. Novice users
+00:01:28;Filter;A8;A. Novice users
+00:02:03;Text search;A8;A. Novice users
+00:02:53;ADVANCED SEARCH & RESULTS;A8;A. Novice users
+00:03:23;Download;A8;A. Novice users
+00:03:24;METADATA PAGE;A8;A. Novice users
+00:06:29;ADVANCED SEARCH & RESULTS;A8;A. Novice users
+00:07:23;Locate;A8;A. Novice users
+00:11:43;Filter;A8;A. Novice users
+00:12:26;View;A8;A. Novice users
+00:12:27;METADATA PAGE;A8;A. Novice users
+00:15:22;Download;A8;A. Novice users
+00:19:03;ADVANCED SEARCH & RESULTS;A8;A. Novice users
+00:19:07;View;A8;A. Novice users
+00:19:08;METADATA PAGE;A8;A. Novice users
+00:20:13;ADVANCED SEARCH & RESULTS;A8;A. Novice users
+00:00:00;QUICK SEARCH;A9;A. Novice users
+00:00:46;Text search;A9;A. Novice users
+00:02:23;ADVANCED SEARCH & RESULTS;A9;A. Novice users
+00:02:36;Map exploration;A9;A. Novice users
+00:03:13;View;A9;A. Novice users
+00:03:14;METADATA PAGE;A9;A. Novice users
+00:04:11;Download;A9;A. Novice users
+00:04:41;ADVANCED SEARCH & RESULTS;A9;A. Novice users
+00:04:49;View;A9;A. Novice users
+00:04:50;METADATA PAGE;A9;A. Novice users
+00:05:29;Download;A9;A. Novice users
+00:05:35;ADVANCED SEARCH & RESULTS;A9;A. Novice users
+00:06:17;View;A9;A. Novice users
+00:06:18;METADATA PAGE;A9;A. Novice users
+00:06:43;Download;A9;A. Novice users
+00:07:01;ADVANCED SEARCH & RESULTS;A9;A. Novice users
+00:07:26;Map exploration;A9;A. Novice users
+00:07:39;Point search;A9;A. Novice users
+00:08:15;View;A9;A. Novice users
+00:08:16;METADATA PAGE;A9;A. Novice users
+00:08:57;Download;A9;A. Novice users
+00:09:09;ADVANCED SEARCH & RESULTS;A9;A. Novice users
+00:09:29;View;A9;A. Novice users
+00:09:30;METADATA PAGE;A9;A. Novice users
+00:09:44;Download;A9;A. Novice users
+00:10:09;ADVANCED SEARCH & RESULTS;A9;A. Novice users
+00:12:16;View;A9;A. Novice users
+00:12:17;METADATA PAGE;A9;A. Novice users
+00:12:37;Download;A9;A. Novice users
+00:12:43;ADVANCED SEARCH & RESULTS;A9;A. Novice users
+00:00:00;QUICK SEARCH;A10;A. Novice users
+00:00:05;Filter;A10;A. Novice users
+00:00:45;Text search;A10;A. Novice users
+00:01:13;ADVANCED SEARCH & RESULTS;A10;A. Novice users
+00:02:00;Filter;A10;A. Novice users
+00:02:22;Filter;A10;A. Novice users
+00:03:08;View;A10;A. Novice users
+00:03:09;METADATA PAGE;A10;A. Novice users
+00:03:36;ADVANCED SEARCH & RESULTS;A10;A. Novice users
+00:03:57;Filter;A10;A. Novice users
+00:05:24;Filter;A10;A. Novice users
+00:06:06;Filter;A10;A. Novice users
+00:00:00;QUICK SEARCH;B1;B. Expert unfamiliar users
+00:00:52;Text search;B1;B. Expert unfamiliar users
+00:01:06;ADVANCED SEARCH & RESULTS;B1;B. Expert unfamiliar users
+00:01:50;Map exploration;B1;B. Expert unfamiliar users
+00:07:28;Text search;B1;B. Expert unfamiliar users
+00:16:45;Map exploration;B1;B. Expert unfamiliar users
+00:38:10;Filter;B1;B. Expert unfamiliar users
+00:39:12;Filter;B1;B. Expert unfamiliar users
+00:00:00;QUICK SEARCH;B4;B. Expert unfamiliar users
+00:00:54;Text search;B4;B. Expert unfamiliar users
+00:01:03;ADVANCED SEARCH & RESULTS;B4;B. Expert unfamiliar users
+00:01:25;Download;B4;B. Expert unfamiliar users
+00:01:26;METADATA PAGE;B4;B. Expert unfamiliar users
+00:02:34;Locate;B4;B. Expert unfamiliar users
+00:04:04;Locate;B4;B. Expert unfamiliar users
+00:04:26;File search;B4;B. Expert unfamiliar users
+00:05:46;Download;B4;B. Expert unfamiliar users
+00:06:49;ADVANCED SEARCH & RESULTS;B4;B. Expert unfamiliar users
+00:07:10;Map exploration;B4;B. Expert unfamiliar users
+00:08:11;Locate;B4;B. Expert unfamiliar users
+00:08:31;Download;B4;B. Expert unfamiliar users
+00:08:32;METADATA PAGE;B4;B. Expert unfamiliar users
+00:09:41;ADVANCED SEARCH & RESULTS;B4;B. Expert unfamiliar users
+00:10:19;Text search;B4;B. Expert unfamiliar users
+00:11:57;Filter;B4;B. Expert unfamiliar users
+00:12:52;Filter;B4;B. Expert unfamiliar users
+00:14:34;Map exploration;B4;B. Expert unfamiliar users
+00:15:02;Point search;B4;B. Expert unfamiliar users
+00:16:11;Locate;B4;B. Expert unfamiliar users
+00:17:43;Geometry search;B4;B. Expert unfamiliar users
+00:00:00;QUICK SEARCH;B6;B. Expert unfamiliar users
+00:00:32;Text search;B6;B. Expert unfamiliar users
+00:01:02;ADVANCED SEARCH & RESULTS;B6;B. Expert unfamiliar users
+00:01:32;Download;B6;B. Expert unfamiliar users
+00:01:33;METADATA PAGE;B6;B. Expert unfamiliar users
+00:02:34;ADVANCED SEARCH & RESULTS;B6;B. Expert unfamiliar users
+00:02:57;View;B6;B. Expert unfamiliar users
+00:02:58;METADATA PAGE;B6;B. Expert unfamiliar users
+00:04:57;Locate;B6;B. Expert unfamiliar users
+00:06:33;ADVANCED SEARCH & RESULTS;B6;B. Expert unfamiliar users
+00:06:42;View;B6;B. Expert unfamiliar users
+00:06:43;METADATA PAGE;B6;B. Expert unfamiliar users
+00:06:53;Download;B6;B. Expert unfamiliar users
+00:07:16;Locate;B6;B. Expert unfamiliar users
+00:08:56;ADVANCED SEARCH & RESULTS;B6;B. Expert unfamiliar users
+00:09:34;Filter;B6;B. Expert unfamiliar users
+00:09:42;View;B6;B. Expert unfamiliar users
+00:09:43;METADATA PAGE;B6;B. Expert unfamiliar users
+00:10:21;Buy;B6;B. Expert unfamiliar users
+00:10:37;ADVANCED SEARCH & RESULTS;B6;B. Expert unfamiliar users
+00:11:32;Map exploration;B6;B. Expert unfamiliar users
+00:00:00;QUICK SEARCH;B7;B. Expert unfamiliar users
+00:01:10;Filter;B7;B. Expert unfamiliar users
+00:01:54;Text search;B7;B. Expert unfamiliar users
+00:02:26;ADVANCED SEARCH & RESULTS;B7;B. Expert unfamiliar users
+00:03:28;View;B7;B. Expert unfamiliar users
+00:03:29;METADATA PAGE;B7;B. Expert unfamiliar users
+00:04:25;Download;B7;B. Expert unfamiliar users
+00:05:06;ADVANCED SEARCH & RESULTS;B7;B. Expert unfamiliar users
+00:05:36;Filter;B7;B. Expert unfamiliar users
+00:06:27;View;B7;B. Expert unfamiliar users
+00:06:28;METADATA PAGE;B7;B. Expert unfamiliar users
+00:06:55;Download;B7;B. Expert unfamiliar users
+00:07:03;ADVANCED SEARCH & RESULTS;B7;B. Expert unfamiliar users
+00:08:07;Filter;B7;B. Expert unfamiliar users
+00:08:16;QUICK SEARCH;B7;B. Expert unfamiliar users
+00:08:26;ADVANCED SEARCH & RESULTS;B7;B. Expert unfamiliar users
+00:08:45;View;B7;B. Expert unfamiliar users
+00:08:46;METADATA PAGE;B7;B. Expert unfamiliar users
+00:09:07;ADVANCED SEARCH & RESULTS;B7;B. Expert unfamiliar users
+00:09:14;Filter;B7;B. Expert unfamiliar users
+00:09:29;Text search;B7;B. Expert unfamiliar users
+00:09:48;View;B7;B. Expert unfamiliar users
+00:09:49;METADATA PAGE;B7;B. Expert unfamiliar users
+00:11:51;Locate;B7;B. Expert unfamiliar users
+00:12:31;Locate;B7;B. Expert unfamiliar users
+00:13:26;ADVANCED SEARCH & RESULTS;B7;B. Expert unfamiliar users
+00:14:48;Filter;B7;B. Expert unfamiliar users
+00:15:15;Text search;B7;B. Expert unfamiliar users
+00:15:42;View;B7;B. Expert unfamiliar users
+00:15:43;METADATA PAGE;B7;B. Expert unfamiliar users
+00:16:02;Download;B7;B. Expert unfamiliar users
+00:16:36;ADVANCED SEARCH & RESULTS;B7;B. Expert unfamiliar users
+00:19:11;Text search;B7;B. Expert unfamiliar users
+00:19:43;Locate;B7;B. Expert unfamiliar users
+00:20:00;View;B7;B. Expert unfamiliar users
+00:20:01;METADATA PAGE;B7;B. Expert unfamiliar users
+00:20:40;Locate;B7;B. Expert unfamiliar users
+00:21:41;Locate;B7;B. Expert unfamiliar users
+00:23:09;ADVANCED SEARCH & RESULTS;B7;B. Expert unfamiliar users
+00:25:04;View;B7;B. Expert unfamiliar users
+00:25:05;METADATA PAGE;B7;B. Expert unfamiliar users
+00:00:00;QUICK SEARCH;B8;B. Expert unfamiliar users
+00:00:19;Text search;B8;B. Expert unfamiliar users
+00:00:51;ADVANCED SEARCH & RESULTS;B8;B. Expert unfamiliar users
+00:02:00;View;B8;B. Expert unfamiliar users
+00:02:01;METADATA PAGE;B8;B. Expert unfamiliar users
+00:02:44;Download;B8;B. Expert unfamiliar users
+00:03:22;ADVANCED SEARCH & RESULTS;B8;B. Expert unfamiliar users
+00:04:22;Download;B8;B. Expert unfamiliar users
+00:04:23;METADATA PAGE;B8;B. Expert unfamiliar users
+00:04:43;ADVANCED SEARCH & RESULTS;B8;B. Expert unfamiliar users
+00:05:08;Download;B8;B. Expert unfamiliar users
+00:05:09;METADATA PAGE;B8;B. Expert unfamiliar users
+00:05:43;ADVANCED SEARCH & RESULTS;B8;B. Expert unfamiliar users
+00:05:57;View;B8;B. Expert unfamiliar users
+00:05:58;METADATA PAGE;B8;B. Expert unfamiliar users
+00:08:44;ADVANCED SEARCH & RESULTS;B8;B. Expert unfamiliar users
+00:09:23;View;B8;B. Expert unfamiliar users
+00:09:24;METADATA PAGE;B8;B. Expert unfamiliar users
+00:09:46;Download;B8;B. Expert unfamiliar users
+00:09:51;ADVANCED SEARCH & RESULTS;B8;B. Expert unfamiliar users
+00:10:02;View;B8;B. Expert unfamiliar users
+00:10:03;METADATA PAGE;B8;B. Expert unfamiliar users
+00:10:39;ADVANCED SEARCH & RESULTS;B8;B. Expert unfamiliar users
+00:00:00;QUICK SEARCH;B9;B. Expert unfamiliar users
+00:00:29;Text search;B9;B. Expert unfamiliar users
+00:01:08;ADVANCED SEARCH & RESULTS;B9;B. Expert unfamiliar users
+00:01:58;Map exploration;B9;B. Expert unfamiliar users
+00:03:09;View;B9;B. Expert unfamiliar users
+00:03:10;METADATA PAGE;B9;B. Expert unfamiliar users
+00:03:19;ADVANCED SEARCH & RESULTS;B9;B. Expert unfamiliar users
+00:03:29;View;B9;B. Expert unfamiliar users
+00:03:30;METADATA PAGE;B9;B. Expert unfamiliar users
+00:04:29;Download;B9;B. Expert unfamiliar users
+00:05:53;Locate;B9;B. Expert unfamiliar users
+00:07:48;ADVANCED SEARCH & RESULTS;B9;B. Expert unfamiliar users
+00:07:56;Locate;B9;B. Expert unfamiliar users
+00:08:09;View;B9;B. Expert unfamiliar users
+00:08:10;METADATA PAGE;B9;B. Expert unfamiliar users
+00:09:22;Download;B9;B. Expert unfamiliar users
+00:09:43;Locate;B9;B. Expert unfamiliar users
+00:10:35;Locate;B9;B. Expert unfamiliar users
+00:10:42;Download;B9;B. Expert unfamiliar users
+00:11:07;ADVANCED SEARCH & RESULTS;B9;B. Expert unfamiliar users
+00:11:20;View;B9;B. Expert unfamiliar users
+00:11:21;METADATA PAGE;B9;B. Expert unfamiliar users
+00:12:15;Buy;B9;B. Expert unfamiliar users
+00:13:09;ADVANCED SEARCH & RESULTS;B9;B. Expert unfamiliar users
+00:13:26;View;B9;B. Expert unfamiliar users
+00:13:27;METADATA PAGE;B9;B. Expert unfamiliar users
+00:13:41;ADVANCED SEARCH & RESULTS;B9;B. Expert unfamiliar users
+00:14:02;View;B9;B. Expert unfamiliar users
+00:14:03;METADATA PAGE;B9;B. Expert unfamiliar users
+00:14:17;ADVANCED SEARCH & RESULTS;B9;B. Expert unfamiliar users
+00:15:14;Filter;B9;B. Expert unfamiliar users
+00:16:57;Filter;B9;B. Expert unfamiliar users
+00:19:56;Text search;B9;B. Expert unfamiliar users
+00:20:46;Text search;B9;B. Expert unfamiliar users
+00:20:59;Map exploration;B9;B. Expert unfamiliar users
+00:24:46;Filter;B9;B. Expert unfamiliar users
+00:24:55;Filter;B9;B. Expert unfamiliar users
+00:27:24;Text search;B9;B. Expert unfamiliar users
+00:29:50;Filter;B9;B. Expert unfamiliar users
+00:30:39;Filter;B9;B. Expert unfamiliar users
+00:31:34;Map exploration;B9;B. Expert unfamiliar users
+00:31:53;Geometry search;B9;B. Expert unfamiliar users
+00:34:27;Text search;B9;B. Expert unfamiliar users
+00:35:53;Text search;B9;B. Expert unfamiliar users
+00:00:00;QUICK SEARCH;B10;B. Expert unfamiliar users
+00:00:18;Text search;B10;B. Expert unfamiliar users
+00:00:34;ADVANCED SEARCH & RESULTS;B10;B. Expert unfamiliar users
+00:00:45;Download;B10;B. Expert unfamiliar users
+00:00:46;METADATA PAGE;B10;B. Expert unfamiliar users
+00:02:19;ADVANCED SEARCH & RESULTS;B10;B. Expert unfamiliar users
+00:02:42;Filter;B10;B. Expert unfamiliar users
+00:04:11;Locate;B10;B. Expert unfamiliar users
+00:04:39;View;B10;B. Expert unfamiliar users
+00:04:40;METADATA PAGE;B10;B. Expert unfamiliar users
+00:05:14;Download;B10;B. Expert unfamiliar users
+00:05:29;ADVANCED SEARCH & RESULTS;B10;B. Expert unfamiliar users
+00:06:16;Filter;B10;B. Expert unfamiliar users
+00:06:58;View;B10;B. Expert unfamiliar users
+00:06:59;METADATA PAGE;B10;B. Expert unfamiliar users
+00:07:39;Download;B10;B. Expert unfamiliar users
+00:07:51;ADVANCED SEARCH & RESULTS;B10;B. Expert unfamiliar users
+00:08:26;Map exploration;B10;B. Expert unfamiliar users
+00:08:59;View;B10;B. Expert unfamiliar users
+00:09:00;METADATA PAGE;B10;B. Expert unfamiliar users
+00:09:15;ADVANCED SEARCH & RESULTS;B10;B. Expert unfamiliar users
+00:09:50;Filter;B10;B. Expert unfamiliar users
+00:10:39;Filter;B10;B. Expert unfamiliar users
+00:10:59;Filter;B10;B. Expert unfamiliar users
+00:11:21;Filter;B10;B. Expert unfamiliar users
+00:11:54;Filter;B10;B. Expert unfamiliar users
+00:13:19;Filter;B10;B. Expert unfamiliar users
+00:13:35;View;B10;B. Expert unfamiliar users
+00:13:36;METADATA PAGE;B10;B. Expert unfamiliar users
+00:14:04;Download;B10;B. Expert unfamiliar users
+00:14:09;ADVANCED SEARCH & RESULTS;B10;B. Expert unfamiliar users
+00:14:48;View;B10;B. Expert unfamiliar users
+00:14:49;METADATA PAGE;B10;B. Expert unfamiliar users
+00:15:15;ADVANCED SEARCH & RESULTS;B10;B. Expert unfamiliar users
+00:16:06;Filter;B10;B. Expert unfamiliar users
+00:16:31;Point search;B10;B. Expert unfamiliar users
+00:00:00;QUICK SEARCH;C1;C. Expert familiar users
+00:00:47;Text search;C1;C. Expert familiar users
+00:01:35;ADVANCED SEARCH & RESULTS;C1;C. Expert familiar users
+00:02:41;Download;C1;C. Expert familiar users
+00:02:42;METADATA PAGE;C1;C. Expert familiar users
+00:03:53;ADVANCED SEARCH & RESULTS;C1;C. Expert familiar users
+00:04:50;Filter;C1;C. Expert familiar users
+00:06:56;Filter;C1;C. Expert familiar users
+00:07:28;Map exploration;C1;C. Expert familiar users
+00:08:03;Geometry search;C1;C. Expert familiar users
+00:09:46;Geometry search;C1;C. Expert familiar users
+00:12:05;Filter;C1;C. Expert familiar users
+00:16:44;Filter;C1;C. Expert familiar users
+00:17:11;View;C1;C. Expert familiar users
+00:17:12;METADATA PAGE;C1;C. Expert familiar users
+00:17:18;Buy;C1;C. Expert familiar users
+00:17:40;ADVANCED SEARCH & RESULTS;C1;C. Expert familiar users
+00:17:51;Filter;C1;C. Expert familiar users
+00:18:21;Filter;C1;C. Expert familiar users
+00:19:08;Filter;C1;C. Expert familiar users
+00:21:17;Text search;C1;C. Expert familiar users
+00:22:21;Locate;C1;C. Expert familiar users
+00:22:39;Download;C1;C. Expert familiar users
+00:22:54;View;C1;C. Expert familiar users
+00:22:55;METADATA PAGE;C1;C. Expert familiar users
+00:25:05;ADVANCED SEARCH & RESULTS;C1;C. Expert familiar users
+00:00:00;QUICK SEARCH;C2;C. Expert familiar users
+00:01:06;Text search;C2;C. Expert familiar users
+00:01:22;ADVANCED SEARCH & RESULTS;C2;C. Expert familiar users
+00:02:21;View;C2;C. Expert familiar users
+00:02:22;METADATA PAGE;C2;C. Expert familiar users
+00:03:18;Download;C2;C. Expert familiar users
+00:03:55;ADVANCED SEARCH & RESULTS;C2;C. Expert familiar users
+00:04:12;Filter;C2;C. Expert familiar users
+00:04:43;Filter;C2;C. Expert familiar users
+00:05:18;Filter;C2;C. Expert familiar users
+00:07:54;Filter;C2;C. Expert familiar users
+00:08:08;Filter;C2;C. Expert familiar users
+00:10:09;Geometry search;C2;C. Expert familiar users
+00:12:33;Filter;C2;C. Expert familiar users
+00:13:04;Text search;C2;C. Expert familiar users
+00:13:36;View;C2;C. Expert familiar users
+00:13:37;METADATA PAGE;C2;C. Expert familiar users
+00:14:02;Buy;C2;C. Expert familiar users
+00:14:07;ADVANCED SEARCH & RESULTS;C2;C. Expert familiar users
+00:14:31;View;C2;C. Expert familiar users
+00:14:32;METADATA PAGE;C2;C. Expert familiar users
+00:14:41;ADVANCED SEARCH & RESULTS;C2;C. Expert familiar users
+00:14:51;View;C2;C. Expert familiar users
+00:14:52;METADATA PAGE;C2;C. Expert familiar users
+00:15:01;ADVANCED SEARCH & RESULTS;C2;C. Expert familiar users
+00:15:20;View;C2;C. Expert familiar users
+00:15:21;METADATA PAGE;C2;C. Expert familiar users
+00:15:37;ADVANCED SEARCH & RESULTS;C2;C. Expert familiar users
+00:15:59;Filter;C2;C. Expert familiar users
+00:16:09;Filter;C2;C. Expert familiar users
+00:16:29;View;C2;C. Expert familiar users
+00:16:30;METADATA PAGE;C2;C. Expert familiar users
+00:16:51;ADVANCED SEARCH & RESULTS;C2;C. Expert familiar users
+00:17:09;View;C2;C. Expert familiar users
+00:17:10;METADATA PAGE;C2;C. Expert familiar users
+00:17:54;ADVANCED SEARCH & RESULTS;C2;C. Expert familiar users
+00:18:52;Filter;C2;C. Expert familiar users
+00:19:02;Filter;C2;C. Expert familiar users
+00:20:08;Filter;C2;C. Expert familiar users
+00:20:20;Filter;C2;C. Expert familiar users
+00:21:22;Filter;C2;C. Expert familiar users
+00:22:55;Filter;C2;C. Expert familiar users
+00:23:08;Filter;C2;C. Expert familiar users
+00:24:45;Filter;C2;C. Expert familiar users
+00:28:42;Download;C2;C. Expert familiar users
+00:00:00;QUICK SEARCH;C3;C. Expert familiar users
+00:00:29;Text search;C3;C. Expert familiar users
+00:01:29;ADVANCED SEARCH & RESULTS;C3;C. Expert familiar users
+00:01:58;View;C3;C. Expert familiar users
+00:01:59;METADATA PAGE;C3;C. Expert familiar users
+00:03:25;Download;C3;C. Expert familiar users
+00:04:29;ADVANCED SEARCH & RESULTS;C3;C. Expert familiar users
+00:04:38;View;C3;C. Expert familiar users
+00:04:39;METADATA PAGE;C3;C. Expert familiar users
+00:05:03;ADVANCED SEARCH & RESULTS;C3;C. Expert familiar users
+00:05:18;View;C3;C. Expert familiar users
+00:05:19;METADATA PAGE;C3;C. Expert familiar users
+00:05:46;Download;C3;C. Expert familiar users
+00:05:58;ADVANCED SEARCH & RESULTS;C3;C. Expert familiar users
+00:06:10;View;C3;C. Expert familiar users
+00:06:11;METADATA PAGE;C3;C. Expert familiar users
+00:06:30;ADVANCED SEARCH & RESULTS;C3;C. Expert familiar users
+00:07:21;Map exploration;C3;C. Expert familiar users
+00:12:58;Filter;C3;C. Expert familiar users
+00:13:18;Filter;C3;C. Expert familiar users
+00:14:40;Filter;C3;C. Expert familiar users
+00:16:39;Text search;C3;C. Expert familiar users
+00:17:27;Map exploration;C3;C. Expert familiar users
+00:17:51;Download;C3;C. Expert familiar users
+00:17:52;METADATA PAGE;C3;C. Expert familiar users
+00:18:24;ADVANCED SEARCH & RESULTS;C3;C. Expert familiar users
+00:18:44;Download;C3;C. Expert familiar users
+00:18:45;METADATA PAGE;C3;C. Expert familiar users
+00:19:12;ADVANCED SEARCH & RESULTS;C3;C. Expert familiar users
+00:19:15;View;C3;C. Expert familiar users
+00:19:16;METADATA PAGE;C3;C. Expert familiar users
+00:19:43;ADVANCED SEARCH & RESULTS;C3;C. Expert familiar users
+00:20:32;Filter;C3;C. Expert familiar users
+00:21:23;Filter;C3;C. Expert familiar users
+00:21:56;Filter;C3;C. Expert familiar users
+00:23:51;Map exploration;C3;C. Expert familiar users
+00:25:30;View;C3;C. Expert familiar users
+00:25:31;METADATA PAGE;C3;C. Expert familiar users
+00:25:33;ADVANCED SEARCH & RESULTS;C3;C. Expert familiar users
+00:00:00;QUICK SEARCH;C7;C. Expert familiar users
+00:00:28;Text search;C7;C. Expert familiar users
+00:01:28;ADVANCED SEARCH & RESULTS;C7;C. Expert familiar users
+00:01:52;View;C7;C. Expert familiar users
+00:01:53;METADATA PAGE;C7;C. Expert familiar users
+00:03:06;Download;C7;C. Expert familiar users
+00:03:46;ADVANCED SEARCH & RESULTS;C7;C. Expert familiar users
+00:04:10;Text search;C7;C. Expert familiar users
+00:04:43;Map exploration;C7;C. Expert familiar users
+00:06:57;Text search;C7;C. Expert familiar users
+00:07:42;View;C7;C. Expert familiar users
+00:07:43;METADATA PAGE;C7;C. Expert familiar users
+00:08:16;Download;C7;C. Expert familiar users
+00:08:39;ADVANCED SEARCH & RESULTS;C7;C. Expert familiar users
+00:09:45;View;C7;C. Expert familiar users
+00:09:46;METADATA PAGE;C7;C. Expert familiar users
+00:10:03;Download;C7;C. Expert familiar users
+00:10:12;ADVANCED SEARCH & RESULTS;C7;C. Expert familiar users
+00:10:22;View;C7;C. Expert familiar users
+00:10:23;METADATA PAGE;C7;C. Expert familiar users
+00:10:29;Download;C7;C. Expert familiar users
+00:10:33;ADVANCED SEARCH & RESULTS;C7;C. Expert familiar users
+00:12:26;Map exploration;C7;C. Expert familiar users
+00:12:35;Text search;C7;C. Expert familiar users
+00:13:41;View;C7;C. Expert familiar users
+00:13:42;METADATA PAGE;C7;C. Expert familiar users
+00:14:11;ADVANCED SEARCH & RESULTS;C7;C. Expert familiar users
+00:14:16;View;C7;C. Expert familiar users
+00:14:17;METADATA PAGE;C7;C. Expert familiar users
+00:14:29;Download;C7;C. Expert familiar users
+00:14:40;ADVANCED SEARCH & RESULTS;C7;C. Expert familiar users
+00:00:00;QUICK SEARCH;C8;C. Expert familiar users
+00:00:27;Text search;C8;C. Expert familiar users
+00:02:31;ADVANCED SEARCH & RESULTS;C8;C. Expert familiar users
+00:04:13;View;C8;C. Expert familiar users
+00:04:14;METADATA PAGE;C8;C. Expert familiar users
+00:04:47;ADVANCED SEARCH & RESULTS;C8;C. Expert familiar users
+00:04:56;View;C8;C. Expert familiar users
+00:04:57;METADATA PAGE;C8;C. Expert familiar users
+00:05:40;ADVANCED SEARCH & RESULTS;C8;C. Expert familiar users
+00:06:04;View;C8;C. Expert familiar users
+00:06:05;METADATA PAGE;C8;C. Expert familiar users
+00:07:42;Download;C8;C. Expert familiar users
+00:09:18;ADVANCED SEARCH & RESULTS;C8;C. Expert familiar users
+00:09:52;View;C8;C. Expert familiar users
+00:09:53;METADATA PAGE;C8;C. Expert familiar users
+00:10:47;Download;C8;C. Expert familiar users
+00:11:20;ADVANCED SEARCH & RESULTS;C8;C. Expert familiar users
+00:13:19;Filter;C8;C. Expert familiar users
+00:16:54;Filter;C8;C. Expert familiar users
+00:17:20;View;C8;C. Expert familiar users
+00:17:21;METADATA PAGE;C8;C. Expert familiar users
+00:17:58;ADVANCED SEARCH & RESULTS;C8;C. Expert familiar users
+00:18:50;Filter;C8;C. Expert familiar users
+00:19:52;Filter;C8;C. Expert familiar users
+00:20:49;Filter;C8;C. Expert familiar users
+00:27:21;Point search;C8;C. Expert familiar users
+00:27:56;View;C8;C. Expert familiar users
+00:27:57;METADATA PAGE;C8;C. Expert familiar users
+00:28:43;Download;C8;C. Expert familiar users
+00:29:42;ADVANCED SEARCH & RESULTS;C8;C. Expert familiar users
+00:30:09;View;C8;C. Expert familiar users
+00:30:10;METADATA PAGE;C8;C. Expert familiar users
+00:31:05;ADVANCED SEARCH & RESULTS;C8;C. Expert familiar users
+00:32:35;Geometry search;C8;C. Expert familiar users
+00:36:20;File search;C8;C. Expert familiar users
+00:37:03;Map exploration;C8;C. Expert familiar users
+00:00:00;QUICK SEARCH;C9;C. Expert familiar users
+00:01:04;Text search;C9;C. Expert familiar users
+00:01:05;ADVANCED SEARCH & RESULTS;C9;C. Expert familiar users
+00:01:22;Map exploration;C9;C. Expert familiar users
+00:02:55;View;C9;C. Expert familiar users
+00:02:56;METADATA PAGE;C9;C. Expert familiar users
+00:03:09;Locate;C9;C. Expert familiar users
+00:07:24;ADVANCED SEARCH & RESULTS;C9;C. Expert familiar users
+00:08:14;View;C9;C. Expert familiar users
+00:08:15;METADATA PAGE;C9;C. Expert familiar users
+00:09:36;ADVANCED SEARCH & RESULTS;C9;C. Expert familiar users
+00:09:41;View;C9;C. Expert familiar users
+00:09:42;METADATA PAGE;C9;C. Expert familiar users
+00:12:08;ADVANCED SEARCH & RESULTS;C9;C. Expert familiar users
+00:12:46;Text search;C9;C. Expert familiar users
+00:13:21;View;C9;C. Expert familiar users
+00:13:22;METADATA PAGE;C9;C. Expert familiar users
+00:15:06;ADVANCED SEARCH & RESULTS;C9;C. Expert familiar users
+00:15:09;Map exploration;C9;C. Expert familiar users
+00:15:24;Locate;C9;C. Expert familiar users
+00:15:57;Locate;C9;C. Expert familiar users
+00:16:44;View;C9;C. Expert familiar users
+00:16:45;METADATA PAGE;C9;C. Expert familiar users
+00:17:24;Locate;C9;C. Expert familiar users
+00:19:14;Buy;C9;C. Expert familiar users
+00:21:36;ADVANCED SEARCH & RESULTS;C9;C. Expert familiar users
+00:21:49;Text search;C9;C. Expert familiar users
+00:22:04;Locate;C9;C. Expert familiar users
+00:22:28;View;C9;C. Expert familiar users
+00:22:29;METADATA PAGE;C9;C. Expert familiar users
+00:23:00;Download;C9;C. Expert familiar users
+00:24:44;ADVANCED SEARCH & RESULTS;C9;C. Expert familiar users
+00:26:11;Text search;C9;C. Expert familiar users
+00:26:36;View;C9;C. Expert familiar users
+00:26:37;METADATA PAGE;C9;C. Expert familiar users
+00:27:13;Locate;C9;C. Expert familiar users
+00:28:12;ADVANCED SEARCH & RESULTS;C9;C. Expert familiar users
+00:29:41;Map exploration;C9;C. Expert familiar users
+00:00:00;QUICK SEARCH;C10;C. Expert familiar users
+00:00:23;Text search;C10;C. Expert familiar users
+00:01:26;ADVANCED SEARCH & RESULTS;C10;C. Expert familiar users
+00:01:41;Download;C10;C. Expert familiar users
+00:01:42;METADATA PAGE;C10;C. Expert familiar users
+00:02:57;ADVANCED SEARCH & RESULTS;C10;C. Expert familiar users
+00:03:10;View;C10;C. Expert familiar users
+00:03:11;METADATA PAGE;C10;C. Expert familiar users
+00:04:16;ADVANCED SEARCH & RESULTS;C10;C. Expert familiar users
+00:05:48;View;C10;C. Expert familiar users
+00:05:49;METADATA PAGE;C10;C. Expert familiar users
+00:07:25;ADVANCED SEARCH & RESULTS;C10;C. Expert familiar users
+00:09:06;View;C10;C. Expert familiar users
+00:09:07;METADATA PAGE;C10;C. Expert familiar users
+00:09:10;Locate;C10;C. Expert familiar users
+00:10:22;ADVANCED SEARCH & RESULTS;C10;C. Expert familiar users
+00:10:36;View;C10;C. Expert familiar users
+00:10:37;METADATA PAGE;C10;C. Expert familiar users
+00:10:52;Buy;C10;C. Expert familiar users
+00:11:08;ADVANCED SEARCH & RESULTS;C10;C. Expert familiar users
+00:12:14;Filter;C10;C. Expert familiar users
+00:13:07;Filter;C10;C. Expert familiar users
+00:14:45;Filter;C10;C. Expert familiar users
+00:15:49;Filter;C10;C. Expert familiar users
+00:17:05;Geometry search;C10;C. Expert familiar users
