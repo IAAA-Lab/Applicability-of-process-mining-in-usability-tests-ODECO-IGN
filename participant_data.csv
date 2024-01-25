@@ -1,0 +1,22 @@
+﻿ID;Category;Gender;Age;Education;1. I think that I would like to use this syste...;2. I found the system unnecessarily complex;3. I thought the system was easy to use;4. I think that I would need the support of a ...;5. I found the various functions in this syste...;6. I thought there was too much inconsistency ...;7. I would imagine that most people would lear...;8. I found the system very cumbersome to use;9. I felt very confident using the system;10. I needed to learn a lot of things before I...;11. The answers given by the search engine to their queries were useful and relevant;SUS;Activities;Duration;Buy;Download;File search;Filter;Geometry search;Locate;Map exploration;Point search;Text search;View
+A2;A. Novice users;Male;More than 35;Graduate or lower;3;3;3;4;4;2;4;4;3;4;5;85;19;29.5;1;2;0;4;1;6;1;0;2;2
+A3;A. Novice users;Male;More than 35;Graduate or lower;2;4;4;4;3;3;2;3;3;3;4;77.5;10;9.8;1;2;0;4;0;0;0;0;1;2
+A6;A. Novice users;Female;More than 35;Graduate or lower;3;3;1;3;3;3;3;3;3;1;5;65;8;11.0;1;2;0;0;0;0;0;0;1;4
+A7;A. Novice users;Male;More than 35;Graduate or lower;3;2;3;1;4;0;4;2;3;1;5;57.5;6;14.8;0;2;0;1;0;0;1;0;1;1
+A8;A. Novice users;Male;35 or less;Postgraduate;2;3;3;2;3;3;4;3;2;3;3;70;8;20.7;0;2;0;2;0;1;0;0;1;2
+A9;A. Novice users;Female;More than 35;Graduate or lower;3;3;1;3;2;2;3;3;3;3;2;65;16;13.8;0;6;0;0;0;0;2;1;1;6
+A10;A. Novice users;Female;35 or less;Graduate or lower;3;3;3;1;3;4;3;4;3;3;5;75;8;7.7;0;0;0;6;0;0;0;0;1;1
+B1;B. Expert unfamiliar users;Male;More than 35;Graduate or lower;2;1;4;2;3;2;1;3;3;1;4;55;6;44.1;0;0;0;2;0;0;2;0;2;0
+B4;B. Expert unfamiliar users;Male;More than 35;Postgraduate;3;2;3;4;3;1;3;4;3;4;2;75;16;19.9;0;3;1;2;1;4;2;1;2;0
+B6;B. Expert unfamiliar users;Male;35 or less;Graduate or lower;3;3;3;4;3;3;2;4;3;4;5;80;11;14.2;1;2;0;1;0;2;1;0;1;3
+B7;B. Expert unfamiliar users;Female;More than 35;Graduate or lower;4;2;3;2;4;3;3;3;3;3;4;75;24;25.9;0;3;0;5;0;5;0;0;4;7
+B8;B. Expert unfamiliar users;Female;More than 35;Postgraduate;2;4;3;4;1;4;4;4;1;4;4;77.5;9;11.3;0;4;0;0;0;0;0;0;1;4
+B9;B. Expert unfamiliar users;Female;More than 35;Postgraduate;4;3;4;4;3;3;3;4;3;4;4;87.5;30;37.0;1;3;0;6;1;4;3;0;6;6
+B10;B. Expert unfamiliar users;Female;35 or less;Postgraduate;3;2;1;4;2;2;1;3;1;3;2;55;22;17.3;0;4;0;9;0;1;1;1;1;5
+C1;C. Expert familiar users;Male;More than 35;Graduate or lower;3;1;3;2;2;2;0;2;2;3;2;50;18;27.1;1;2;0;7;2;1;1;0;2;2
+C2;C. Expert familiar users;Male;More than 35;Graduate or lower;4;3;4;4;2;1;2;3;3;3;2;72.5;29;29.7;1;2;0;16;1;0;0;0;2;7
+C3;C. Expert familiar users;Male;More than 35;Graduate or lower;1;2;3;4;2;1;0;2;1;4;2;50;21;26.2;0;4;0;6;0;0;3;0;2;6
+C7;C. Expert familiar users;Female;35 or less;Graduate or lower;3;1;3;3;2;3;2;3;3;3;4;65;17;15.1;0;5;0;0;0;0;2;0;4;6
+C8;C. Expert familiar users;Female;More than 35;Graduate or lower;3;1;3;1;1;2;1;2;2;1;4;42.5;20;39.9;0;3;1;5;1;0;1;1;1;7
+C9;C. Expert familiar users;Male;More than 35;Graduate or lower;1;0;2;3;1;1;1;0;2;1;2;30;22;30.5;1;1;0;0;0;6;3;0;4;7
+C10;C. Expert familiar users;Female;35 or less;Graduate or lower;3;2;2;4;3;3;1;2;4;4;4;70;13;23.0;1;1;0;4;1;1;0;0;1;4
